@@ -42,9 +42,8 @@ jupyter notebook
 
 To turn the notebook into a standalone web app using Voila:
 
-1. Install Voila using conda:
-
-You can skip this step if you've created an environment from the environment.yml file.
+1. Install Voila using conda 
+(You can skip this step if you've created an environment from the environment.yml file):
 
 ```bash
 conda install -c conda-forge voila
@@ -60,7 +59,7 @@ voila "Guess Who.ipynb"
 
 ### Links
 
-Binder file: [<a href="https://mybinder.org/v2/gh/afvanwoudenberg/guess-who/main?urlpath=%2Fvoila%2Frender%2FGuess%20Who.ipynb">![Binder](https://mybinder.org/badge_logo.svg)</a>
+Binder file: <a href="https://mybinder.org/v2/gh/afvanwoudenberg/guess-who/main?urlpath=%2Fvoila%2Frender%2FGuess%20Who.ipynb">![Binder](https://mybinder.org/badge_logo.svg)</a>
 
 Blog post: [https://aswinvanwoudenberg.com/posts/how-to-traverse-a-decision-tree-and-win-at-guess-who/](https://aswinvanwoudenberg.com/posts/how-to-traverse-a-decision-tree-and-win-at-guess-who/)
 
@@ -70,7 +69,7 @@ The images used in this project are sourced from [https://guesswhocharacters.inf
 
 ## Authors
 
-Aswin van Woudenberg ([afvanwoudenberg](https://github.com/afvanwoudenberg)
+Aswin van Woudenberg [afvanwoudenberg](https://github.com/afvanwoudenberg)
 
 ## License
 
