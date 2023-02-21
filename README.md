@@ -43,7 +43,7 @@ jupyter notebook
 To turn the notebook into a standalone web app using Voila:
 
 1. Install Voila using conda: <br> 
-(You can skip this step if you've created an environment from the environment.yml file)
+(You can skip this step if you've created an environment from the [environment.yml](environment.yml) file)
 
 ```bash
 conda install -c conda-forge voila
@@ -69,9 +69,9 @@ The images used in this project are sourced from [https://guesswhocharacters.inf
 
 ## Authors
 
-Aswin van Woudenberg [afvanwoudenberg](https://github.com/afvanwoudenberg)
+Aswin van Woudenberg ([afvanwoudenberg](https://github.com/afvanwoudenberg))
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
