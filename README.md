@@ -42,8 +42,8 @@ jupyter notebook
 
 To turn the notebook into a standalone web app using Voila:
 
-1. Install Voila using conda 
-(You can skip this step if you've created an environment from the environment.yml file):
+1. Install Voila using conda: <br> 
+(You can skip this step if you've created an environment from the environment.yml file)
 
 ```bash
 conda install -c conda-forge voila
