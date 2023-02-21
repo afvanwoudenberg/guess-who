@@ -61,11 +61,11 @@ voila "Guess Who.ipynb"
 
 Binder file: <a href="https://mybinder.org/v2/gh/afvanwoudenberg/guess-who/main?urlpath=%2Fvoila%2Frender%2FGuess%20Who.ipynb">![Binder](https://mybinder.org/badge_logo.svg)</a>
 
-Blog post: [https://aswinvanwoudenberg.com/posts/how-to-traverse-a-decision-tree-and-win-at-guess-who/](https://aswinvanwoudenberg.com/posts/how-to-traverse-a-decision-tree-and-win-at-guess-who/)
+Blog post: https://aswinvanwoudenberg.com/posts/how-to-traverse-a-decision-tree-and-win-at-guess-who/
 
 ## Image Attribution
 
-The images used in this project are sourced from [https://guesswhocharacters.info/](https://guesswhocharacters.info/). 
+The images used in this project are sourced from https://guesswhocharacters.info/
 
 ## Authors
 
