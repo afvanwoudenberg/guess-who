@@ -36,7 +36,7 @@ conda activate guess-who
 jupyter notebook
 ```
 
-6. Open Guess Who.ipynb in the browser and run the notebook.
+6. Open guess_who.ipynb in the browser and run the notebook.
 
 ### Using Voila
 
@@ -52,14 +52,14 @@ conda install -c conda-forge voila
 2. Launch Voila with the notebook:
 
 ```bash
-voila "Guess Who.ipynb"
+voila guess_who.ipynb
 ```
 
 3. Your web app should now be running at http://localhost:8866/
 
 ### Links
 
-Binder file: <a href="https://mybinder.org/v2/gh/afvanwoudenberg/guess-who/main?urlpath=%2Fvoila%2Frender%2FGuess%20Who.ipynb">![Binder](https://mybinder.org/badge_logo.svg)</a>
+Binder file: <a href="https://mybinder.org/v2/gh/afvanwoudenberg/guess-who/main?urlpath=%2Fvoila%2Frender%2Fguess_who.ipynb">![Binder](https://mybinder.org/badge_logo.svg)</a>
 
 Blog post: https://aswinvanwoudenberg.com/posts/how-to-traverse-a-decision-tree-and-win-at-guess-who/
 
